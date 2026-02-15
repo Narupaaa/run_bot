@@ -1,0 +1,7 @@
+{
+  "name": "binance-buy-bot",
+  "version": "1.0.0",
+  "dependencies": {
+    "ccxt": "^4.2.0"
+  }
+}
